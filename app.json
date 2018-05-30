@@ -1,5 +1,5 @@
 {
-    "name":"GastonApp",
+    "name":"gaston",
     "description":"generates Fibonacci series",
     "icon":"https://www.stonybrookmedicine.edu/sites/default/files/box-webfiles/img/research-icon.png",
     "onclick":"https://sbm-it.github.io/fibonacci/fib.js"
